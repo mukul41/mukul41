@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **AI based Medical Chatbot**
 
-- 🌱 I’m currently learning **Android Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me **pratapmukul33@gmail.com**
 
